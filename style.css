@@ -6,11 +6,63 @@
 }
 
 .header {
-  font-size: 2.5em;
-  font-style: italic;
-  font-weight: bold;
+  background-color: black;
+  height: 150px;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
+h1 {
+  font-size: 2em;
+}
+.subtitle {
+  padding: 15px;
+  font-size: 1.5em;
+}
+.container {
+  width: 1000px;
+  margin: 30px auto;
 }
 
-p{
-  text-decoration: underline;
+.paragraph {
+  padding: 10px 20px;
+  text-align: justify;
+}
+
+.variants {
+  
+  display: flex;
+}
+
+.MacBook {
+  width: 400px;
+  padding: 20px;
+  text-align: justify;
+  background-color: lightgray;
+  margin: 30px;
+  border-radius: 20px;
+}
+.MacBook:hover {
+  box-shadow: 10px 5px 5px red;
+}
+li {
+  margin: 10px;
+}
+h2 {
+  text-align: center;
+  font-size: 1.25rem;
+}
+.footer {
+height: 100px;
+line-height: 100px;
+text-align: center;
+color: white;
+background-color: darkgray;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
 }
