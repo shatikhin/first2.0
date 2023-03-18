@@ -28,3 +28,27 @@ h1 {
   padding: 10px 20px;
   text-align: justify;
 }
+
+.variants {
+  
+  display: flex;
+}
+
+.MacBook {
+  width: 400px;
+  padding: 20px;
+  text-align: justify;
+  background-color: lightgray;
+  margin: 30px;
+  border-radius: 20px;
+}
+.MacBook:hover {
+  box-shadow: 10px 5px 5px red;
+}
+li {
+  margin: 10px;
+}
+h2 {
+  text-align: center;
+  font-size: 1.25rem;
+}
