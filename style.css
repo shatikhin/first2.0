@@ -52,3 +52,17 @@ h2 {
   text-align: center;
   font-size: 1.25rem;
 }
+.footer {
+height: 100px;
+line-height: 100px;
+text-align: center;
+color: white;
+background-color: darkgray;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
