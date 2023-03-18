@@ -6,11 +6,16 @@
 }
 
 .header {
-  font-size: 2.5em;
-  font-style: italic;
-  font-weight: bold;
+  background-color: black;
+  height: 150px;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
 }
-
-p{
-  text-decoration: underline;
+h1 {
+  font-size: 2em;
+}
+.subtitle {
+  padding: 15px;
+  font-size: 1.5em;
 }
