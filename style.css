@@ -66,3 +66,12 @@ a {
 a:hover {
   color: red;
 }
+
+.img {
+  width: 950px;
+  
+}
+.imagine {
+  padding: 10x;
+  margin: 0 auto;
+}
